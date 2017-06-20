@@ -1,4 +1,5 @@
-# TwitterSniper
+# TwitterPhishing
+
 
 Brute Force Attack On Twitter Account Script
 
