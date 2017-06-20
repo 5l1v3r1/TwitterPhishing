@@ -1,6 +1,6 @@
 # TwitterSniper
 
-Brute Force Attack On Twitter Script
+Brute Force Attack On Twitter Account Script
 
 
 # you need to install mechanicalsoup 
