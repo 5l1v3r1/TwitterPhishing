@@ -23,6 +23,12 @@ python TwitterPhishing.py --help
 
 and see the options :) 
 
+# for example
+
+
+python TwitterPhishing.py -e Email target -l /root/wordlist.txt 
+
+
 
 
 # that's all 
