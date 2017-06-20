@@ -13,6 +13,11 @@ pip install mechanicalsoup
 
 # how using tool 
 
+cd TwitterPhishing/
+
+chmod +x TwitterPhishing.py
+
+
 python TwitterPhishing.py --help 
 
 
