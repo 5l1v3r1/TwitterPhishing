@@ -11,7 +11,7 @@ for install mechanicalsoup
 
 pip install mechanicalsoup
 
-#how using tool 
+# how using tool 
 
 python TwitterPhishing.py --help 
 
